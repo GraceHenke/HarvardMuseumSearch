@@ -6,7 +6,7 @@ import okhttp3.Request
 import okhttp3.Response
 
 
-private const val API = "37fa698f-5df4-4bcd-8123-7aa102ccdb88"
+private const val API = ""
 class ArtInterceptor: Interceptor {
 
     override fun intercept(chain: Interceptor.Chain): Response {
